@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Compiled C files / executables
+*.exe
+*.o
+*.obj
+*.out
+*.dll
+
+# OS files
+Thumbs.db
+.DS_Store
